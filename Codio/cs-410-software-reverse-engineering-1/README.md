@@ -1,10 +1,3 @@
-# CS410-Reverse-Engineering
-CS410 Reverse Engineering Projects and Work
-
-
-
-## This following part of the README comes from Codio
-
 ### What is this?
 This `README.md` file is auto-created for all new projects.
 
