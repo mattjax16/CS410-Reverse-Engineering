@@ -26,7 +26,7 @@ int num4 = 1;
 std::string name5 = "Carol Spears";
 int num5 = 2;
 
-/// Fucntion Prototypes /// 
+/// Function Prototypes /// 
 int ChangeCustomerChoice();
 void DisplayInfo();
 int CheckUserPermissonAccess();
